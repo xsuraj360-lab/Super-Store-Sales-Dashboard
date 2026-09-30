@@ -11,9 +11,7 @@ The dashboard provides insights into sales, transactions, quantity ordered, ship
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
-- Excel Dashboard
-- Data Analysis
-- Data Visualization
+- Power Query
 - Slicers
 - KPI Cards
 - Charts & Graphs
