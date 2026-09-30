@@ -51,7 +51,7 @@ The dashboard includes:
 
 ## 🖼️ Dashboard Preview
 
-![Super Store Sales Dashboard](dashboard.png)
+![Super Store Sales Dashboard](Dashboard.png)
 
 ## 📁 Project File
 
